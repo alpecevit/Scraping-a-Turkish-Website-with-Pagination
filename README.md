@@ -11,8 +11,8 @@
 
 # About the Notebook
   This notebook is going to scrape the publicly available data on https://www.sikayetvar.com/ about a product called "Ülker Çikolatalı Gofret" which is a kind of a
-  wafer where the name "Ülker" is the brand of the product. We are going use `Beautiful Soup` library for pulling the data from HTML files. The necessary packages 
-  and codes can be found in the notebook.
+  wafer where the name "Ülker" represents the brand of the product. We are going use `Beautiful Soup` library for pulling the data from HTML files. The necessary
+  packages and codes can be found in the notebook.
 
 # Related Sources and Acknowledgements
   - If you would like to learn more about the technical details of web scraping you can visit https://en.wikipedia.org/wiki/Web_scraping.
